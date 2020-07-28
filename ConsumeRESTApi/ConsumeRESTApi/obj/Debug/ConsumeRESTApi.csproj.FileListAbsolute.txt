@@ -1,0 +1,7 @@
+C:\Users\bapawelec\source\repos\ConsumeRESTApi\ConsumeRESTApi\bin\Debug\ConsumeRESTApi.exe.config
+C:\Users\bapawelec\source\repos\ConsumeRESTApi\ConsumeRESTApi\bin\Debug\ConsumeRESTApi.exe
+C:\Users\bapawelec\source\repos\ConsumeRESTApi\ConsumeRESTApi\bin\Debug\ConsumeRESTApi.pdb
+C:\Users\bapawelec\source\repos\ConsumeRESTApi\ConsumeRESTApi\obj\Debug\ConsumeRESTApi.csprojAssemblyReference.cache
+C:\Users\bapawelec\source\repos\ConsumeRESTApi\ConsumeRESTApi\obj\Debug\ConsumeRESTApi.csproj.CoreCompileInputs.cache
+C:\Users\bapawelec\source\repos\ConsumeRESTApi\ConsumeRESTApi\obj\Debug\ConsumeRESTApi.exe
+C:\Users\bapawelec\source\repos\ConsumeRESTApi\ConsumeRESTApi\obj\Debug\ConsumeRESTApi.pdb

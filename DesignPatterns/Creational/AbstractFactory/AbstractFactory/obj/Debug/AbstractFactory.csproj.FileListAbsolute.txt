@@ -1,0 +1,7 @@
+C:\Users\Bartek\Documents\juniorupskill\DesignPatterns\Creational\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\Bartek\Documents\juniorupskill\DesignPatterns\Creational\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\Bartek\Documents\juniorupskill\DesignPatterns\Creational\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\Bartek\Documents\juniorupskill\DesignPatterns\Creational\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
+C:\Users\Bartek\Documents\juniorupskill\DesignPatterns\Creational\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Documents\juniorupskill\DesignPatterns\Creational\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\Bartek\Documents\juniorupskill\DesignPatterns\Creational\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
